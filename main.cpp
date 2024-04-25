@@ -3,7 +3,8 @@
 using namespace std;
 
 int main()
-{
+{	
+	//拉取
 	int n;
 	cin >> n;
 	int nums[26];
